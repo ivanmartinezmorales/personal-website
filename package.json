@@ -1,0 +1,8 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "\"Ivan Martinez's personal website\"",
+  "main": "index.js",
+  "author": "\"Ivan Martinez Morales\"",
+  "license": "MIT"
+}
